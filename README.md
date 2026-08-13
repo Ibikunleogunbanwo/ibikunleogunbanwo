@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayo Ogunbanwo
+# Hi, I'm Ayo Ogunbanwo
 
 ## Data Engineer | Analytics Engineer | Backend Software Engineer
 
